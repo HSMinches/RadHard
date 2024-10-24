@@ -1,0 +1,184 @@
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=GND Pin=J?-SH3
+Removed Pin From Net: NetName=GND Pin=J?-SH4
+Removed Pin From Net: NetName=GND Pin=J?-SH5
+Removed Pin From Net: NetName=GND Pin=J?-SH6
+Removed Pin From Net: NetName=GND Pin=J?-SH7
+Removed Pin From Net: NetName=GND Pin=J?-SH8
+Removed Pin From Net: NetName=GND Pin=J?-SH9
+Removed Pin From Net: NetName=GND Pin=J?-SH10
+Removed Pin From Net: NetName=GND Pin=J?-SH11
+Removed Pin From Net: NetName=GND Pin=J?-SH12
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q6-3
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q6-4
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q6-5
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q6-6
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q6-7
+Removed Pin From Net: NetName=NetQ5_4 Pin=Q7-4
+Removed Member From Class: ClassName=SolidStateDosimeter Member=J?
+Removed Member From Class: ClassName=Reference Member=U2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change component parameters: Designator = "J?" ("J3"); Footprint = "TE_2118728-2"; UniqueID = "\GYIDFAUP\WVMTEBDK" ("\GYIDFAUP\WVMTEBDK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol Commercial Products'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MDBRE09PE860"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D9(VISH-SOD-323-2_V)
+Add component (AddParameter): Name = "Brand"; Value = "VishaySemiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/85751/1n4148ws.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 2.0, 05/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Continuous Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage Drop"; Value = "1.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Surge Current"; Value = "350mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Diode Capacitance"; Value = "4pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+150C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Power Dissipation"; Value = "200mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Reverse Leakage Current"; Value = "100uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+150C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1.775 x 1.3 mm, Height 1.15 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOD-323-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00233088.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. 5, 09/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "SwitchingDiodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Diodes-GeneralPurpose,Power,Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recovery Time"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Weight"; Value = "0.000152oz"; VariantName = "[No Variations]"
+Added Component: Designator=J2(TE_2118728-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2118728-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q13(STM-TO-18-3)
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage V(br)ceo"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/25917/cd00003223-25917094.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Feb-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Collector Current"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current Gain hFE"; Value = "300hFE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "3Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "175degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Dia 5.8 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-18-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation Pd"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Case Style"; Value = "TO-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transition Frequency ft"; Value = "300MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Added Pin To Net: NetName=GND Pin=J2-SH1
+Added Pin To Net: NetName=GND Pin=J2-SH2
+Added Pin To Net: NetName=GND Pin=J2-SH3
+Added Pin To Net: NetName=GND Pin=J2-SH4
+Added Pin To Net: NetName=GND Pin=J2-SH5
+Added Pin To Net: NetName=GND Pin=J2-SH6
+Added Pin To Net: NetName=GND Pin=J2-SH7
+Added Pin To Net: NetName=GND Pin=J2-SH8
+Added Pin To Net: NetName=GND Pin=J2-SH9
+Added Pin To Net: NetName=GND Pin=J2-SH10
+Added Pin To Net: NetName=GND Pin=J2-SH11
+Added Pin To Net: NetName=GND Pin=J2-SH12
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=U3-2
+Added Net: Name=NetD9_1
+Added Net: Name=NetJ3_1
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-4
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-5
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-6
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-7
+Added Net: Name=NetQ6_3
+Added Pin To Net: NetName=NetQ7_4 Pin=Q7-4
+Added Net: Name=NetQ7_4
+Added Pin To Net: NetName=NetQ13_1 Pin=Q13-1
+Added Net: Name=NetQ13_1
+Added Pin To Net: NetName=NetQ13_3 Pin=Q13-3
+Added Pin To Net: NetName=NetQ13_3 Pin=U3-1
+Added Net: Name=NetQ13_3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-4
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-3
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR1_5 Pin=R1-5
+Added Pin To Net: NetName=NetR1_5 Pin=R1-7
+Added Pin To Net: NetName=NetR1_5 Pin=R1-8
+Added Net: Name=NetR1_5
+Added Pin To Net: NetName=NetR19_2 Pin=U4-1
+Added Net: Name=NetR19_2
+Change Class Name : Old Net Name=PassElement New Net Name=PowerSection
+Change Class Name : Old Net Name=Reference New Net Name=VoltageReference
+Change Class Name : Old Net Name=SolidStateDosimeter New Net Name=Dosimeter
+Added Class: Name=Interface
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Added Member To Class: ClassName=VoltageReference Member=Component D9 1N4148WS-E3-08
+Added Member To Class: ClassName=Dosimeter Member=Component J2 2118728-2
+Added Member To Class: ClassName=VoltageReference Member=Component Q13 2N2222A
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R12 Resistor
+Add Class Member: Failed to add class member : Component R13 Resistor
+Add Class Member: Failed to add class member : Component R14 Resistor
+Add Class Member: Failed to add class member : Component R15 Resistor
+Add Class Member: Failed to add class member : Component R17 Resistor
+Add Class Member: Failed to add class member : Component R19 Resistor

@@ -1,0 +1,69 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D15
+Change Component Designator: OldDesignator=D? NewDesignator=D16
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=Q? NewDesignator=Q6
+Change Component Designator: OldDesignator=Q? NewDesignator=Q7
+Change Component Designator: OldDesignator=Q? NewDesignator=Q8
+Change Component Designator: OldDesignator=Q? NewDesignator=Q9
+Change Component Designator: OldDesignator=Q? NewDesignator=Q10
+Add Component: Footprint Not Found CH4659-ALD_COC
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD16_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD15_2
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ6_3
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_1 Pin=Q6-1
+Added Pin To Net: NetName=NetD15_1 Pin=Q7-1
+Added Pin To Net: NetName=NetD15_1 Pin=Q8-1
+Added Pin To Net: NetName=NetD15_1 Pin=Q9-2
+Added Pin To Net: NetName=NetD15_1 Pin=Q10-2
+Added Net: Name=NetD15_1
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q7-3
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetQ7_4 Pin=Q7-4
+Added Pin To Net: NetName=NetQ7_4 Pin=Q8-2
+Added Net: Name=NetQ7_4
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Net: Name=NetQ10_1
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Added Member To Class: ClassName=PassElement Member=Component D16 PTVS12VP1UP,115
+Added Member To Class: ClassName=PassElement Member=Component Q5 IXTA6N100D2
+Added Member To Class: ClassName=PassElement Member=Component Q6 UJ4SC075018B7S
+Added Member To Class: ClassName=PassElement Member=Component Q7 IXTA6N100D2
+Added Member To Class: ClassName=PassElement Member=Component Q9 2N2222A
+Added Member To Class: ClassName=PassElement Member=Component Q10 2N2222A
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component U1 CH4659-ALD

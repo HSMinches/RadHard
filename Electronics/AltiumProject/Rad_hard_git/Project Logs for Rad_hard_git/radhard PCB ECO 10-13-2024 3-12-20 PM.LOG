@@ -1,0 +1,147 @@
+Removed Pin From Net: NetName=NetQ2_2 Pin=Q6-2
+Removed Pin From Net: NetName=NetQ2_3 Pin=Q6-3
+Removed Pin From Net: NetName=NetQ2_3 Pin=Q7-3
+Removed Pin From Net: NetName=NetQ2_3 Pin=Q8-3
+Removed Member From Class: ClassName=PassElement Member=D15
+Removed Member From Class: ClassName=PassElement Member=D16
+Removed Member From Class: ClassName=PassElement Member=Q5
+Removed Member From Class: ClassName=PassElement Member=Q6
+Removed Member From Class: ClassName=PassElement Member=Q7
+Removed Member From Class: ClassName=PassElement Member=Q8
+Added Component: Designator=D?(PMEG3050EP115)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptvs12vp1up115/nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PTVSXP1UP_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PTVS12VP1UP115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS12VP1UP115?qs=5eMHoInnifTeU9%2FVxPGuCA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D?(PMEG3050EP115)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptvs12vp1up115/nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PTVSXP1UP_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PTVS12VP1UP115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS12VP1UP115?qs=5eMHoInnifTeU9%2FVxPGuCA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(STM-TO-18-3)
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage V(br)ceo"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/25917/cd00003223-25917094.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Feb-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Collector Current"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current Gain hFE"; Value = "300hFE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "3Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "175degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Dia 5.8 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-18-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation Pd"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Case Style"; Value = "TO-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transition Frequency ft"; Value = "300MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(STM-TO-18-3)
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage V(br)ceo"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/25917/cd00003223-25917094.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Feb-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Collector Current"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current Gain hFE"; Value = "300hFE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "3Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "175degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Dia 5.8 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-18-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation Pd"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Case Style"; Value = "TO-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transition Frequency ft"; Value = "300MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(DPAK254P1524X483-3N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'IXYS'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IXTA6N100D2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(UJ4SC075018B7S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(DPAK254P1524X483-3N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'IXYS'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IXTA6N100D2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(FP-TO-18-MFG)
+Add Component: Footprint Not Found CH4659-ALD_COC
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ2_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ2_2 Pin=Q?-4
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Added Pin To Net: NetName=NetC?_2 Pin=L1-2
+Added Pin To Net: NetName=NetC?_2 Pin=Q1-8
+Added Pin To Net: NetName=NetC?_2 Pin=Q?-8
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=Q?-2
+Added Net: Name=NetD?_1
+Add Net: Net with name "NetD?_1" already exists
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Net: Name=NetQ?_1
+Add Net: Net with name "NetQ?_1" already exists
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-4
+Added Net: Name=NetQ?_2
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-4
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-5
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-6
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-7
+Added Net: Name=NetQ?_3
+Add Net: Net with name "NetQ?_3" already exists
+Added Net: Name=NetR6_2
+Added Net: Name=NetR7_2
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Added Member To Class: ClassName=PassElement Member=Component D? PTVS12VP1UP,115
+Added Member To Class: ClassName=PassElement Member=Component D? PTVS12VP1UP,115
+Added Member To Class: ClassName=PassElement Member=Component Q? 2N2222A
+Added Member To Class: ClassName=PassElement Member=Component Q? 2N2222A
+Added Member To Class: ClassName=PassElement Member=Component Q? IXTA6N100D2
+Added Member To Class: ClassName=PassElement Member=Component Q? UJ4SC075018B7S
+Added Member To Class: ClassName=PassElement Member=Component Q? IXTA6N100D2
+Added Member To Class: ClassName=PassElement Member=Component Q? 2N2907A
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component U1 CH4659-ALD

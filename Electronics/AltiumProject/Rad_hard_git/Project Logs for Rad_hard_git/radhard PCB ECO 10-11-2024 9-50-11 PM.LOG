@@ -1,0 +1,299 @@
+Removed Member From Class: ClassName=Reference Member=U?
+Change Component Footprint: Designator=Q2 Old Footprint=FP-PG-TO262-3-MFG New Footprint=FP-TO-18-MFG
+Change Component Footprint: Designator=Q3 Old Footprint=FP-PG-TO262-3-MFG New Footprint=STM-TO-18-3
+Change Component Footprint: Designator=Q1 Old Footprint=FP-PG-TO262-3-MFG New Footprint=UJ4SC075018B7S
+Change Component Comment : Designator=Q3 Old Comment=IRF640NLPBF New Comment=2N2222A
+Change Component Comment : Designator=Q2 Old Comment=IRF640NLPBF New Comment=2N2907A
+Change Component Comment : Designator=Q1 Old Comment=IRF640NLPBF New Comment=UJ4SC075018B7S
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Managed Component Library Link : Designator=Q2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F470B7D0-B907-44DF-AD30-96D9499CB36F New ItemGUID=8996766E-6B93-4126-BFD3-66D88DBDE09F Old RevisionGUID=9F25F67A-D383-473D-A20E-30CE6D9C3AC1 New RevisionGUID=5E7C3C73-1936-48DB-8B61-CB14E8B87690
+Change Managed Component Library Link : Designator=Q3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F470B7D0-B907-44DF-AD30-96D9499CB36F New ItemGUID=A865139E-B6EF-45E0-AF9D-69A25E38148A Old RevisionGUID=9F25F67A-D383-473D-A20E-30CE6D9C3AC1 New RevisionGUID=908783B6-6357-42CF-A442-94334766117E
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=F470B7D0-B907-44DF-AD30-96D9499CB36F New ItemGUID= Old RevisionGUID=9F25F67A-D383-473D-A20E-30CE6D9C3AC1 New RevisionGUID=
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "FP-PG-TO262-3-MFG"; UniqueID = "\RHMLLUJB" ("\RHMLLUJB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "FP-PG-TO262-3-MFG"; UniqueID = "\VAGAAENW" ("\VAGAAENW")
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "FP-PG-TO262-3-MFG"; UniqueID = "\NLZOXUGZ" ("\NLZOXUGZ")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Emitter Voltage V(br)ceo"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/25917/cd00003223-25917094.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Feb-03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Collector Current"; Value = "600mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Current Gain hFE"; Value = "300hFE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Pins"; Value = "3Pins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "175degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Dia 5.8 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "TO-18-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation Pd"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Case Style"; Value = "TO-18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transition Frequency ft"; Value = "300MHz"; VariantName = "[No Variations]"
+Added Component: Designator=D1(PMEG3050EP115)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptvs12vp1up115/nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PTVSXP1UP_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PTVS12VP1UP115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS12VP1UP115?qs=5eMHoInnifTeU9%2FVxPGuCA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D2(PMEG3050EP115)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptvs12vp1up115/nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PTVSXP1UP_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PTVS12VP1UP115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS12VP1UP115?qs=5eMHoInnifTeU9%2FVxPGuCA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D3(FP-1N4007_SMD-IPC_C)
+Added Component: Designator=D4(FP-1N4007_SMD-IPC_C)
+Added Component: Designator=D5(FP-1N4007_SMD-IPC_C)
+Added Component: Designator=D6(FP-1N4007_SMD-IPC_C)
+Added Component: Designator=D7(FP-1N4007_SMD-IPC_C)
+Added Component: Designator=D8(FP-1N4007_SMD-IPC_C)
+Added Component: Designator=D9(FP-1N4007_SMD-IPC_C)
+Added Component: Designator=D10(FP-1N4007_SMD-IPC_C)
+Added Component: Designator=D11(PMEG3050EP115)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptvs12vp1up115/nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PTVSXP1UP_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PTVS12VP1UP115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS12VP1UP115?qs=5eMHoInnifTeU9%2FVxPGuCA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D12(PMEG3050EP115)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptvs12vp1up115/nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PTVSXP1UP_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PTVS12VP1UP115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS12VP1UP115?qs=5eMHoInnifTeU9%2FVxPGuCA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D13(PMEG3050EP115)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptvs12vp1up115/nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PTVSXP1UP_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PTVS12VP1UP115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS12VP1UP115?qs=5eMHoInnifTeU9%2FVxPGuCA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D14(PMEG3050EP115)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptvs12vp1up115/nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PTVSXP1UP_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PTVS12VP1UP115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS12VP1UP115?qs=5eMHoInnifTeU9%2FVxPGuCA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D15(PMEG3050EP115)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptvs12vp1up115/nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PTVSXP1UP_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PTVS12VP1UP115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS12VP1UP115?qs=5eMHoInnifTeU9%2FVxPGuCA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D16(PMEG3050EP115)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptvs12vp1up115/nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PTVSXP1UP_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTVS12VP1UP,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PTVS12VP1UP115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS12VP1UP115?qs=5eMHoInnifTeU9%2FVxPGuCA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(STM-TO-18-3)
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage V(br)ceo"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/25917/cd00003223-25917094.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Feb-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Collector Current"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current Gain hFE"; Value = "300hFE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "3Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "175degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Dia 5.8 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-18-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation Pd"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Case Style"; Value = "TO-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transition Frequency ft"; Value = "300MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(UJ4SC075018B7S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q6(FP-TO-18-MFG)
+Added Component: Designator=Q7(STM-TO-18-3)
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage V(br)ceo"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/25917/cd00003223-25917094.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Feb-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Collector Current"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current Gain hFE"; Value = "300hFE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "3Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "175degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Dia 5.8 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-18-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation Pd"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Case Style"; Value = "TO-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transition Frequency ft"; Value = "300MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(STM-TO-18-3)
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Emitter Voltage V(br)ceo"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/25917/cd00003223-25917094.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Feb-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Collector Current"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current Gain hFE"; Value = "300hFE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "3Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "175degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Dia 5.8 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-18-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation Pd"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Case Style"; Value = "TO-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transition Frequency ft"; Value = "300MHz"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CH4659-ALD_COC
+Added Pin To Net: NetName=GND Pin=D13-2
+Added Pin To Net: NetName=GND Pin=D14-2
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q2-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q3-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q4-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q1-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=D4-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D5-2
+Added Pin To Net: NetName=NetD3_2 Pin=D7-2
+Added Pin To Net: NetName=NetD3_2 Pin=D9-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=D6-1
+Added Pin To Net: NetName=NetD4_1 Pin=D8-1
+Added Pin To Net: NetName=NetD4_1 Pin=D10-1
+Added Pin To Net: NetName=NetD4_1 Pin=D11-1
+Added Pin To Net: NetName=NetD4_1 Pin=D12-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D6-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=D8-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=D10-2
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=D13-1
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=D14-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_1 Pin=Q5-1
+Added Pin To Net: NetName=NetD15_1 Pin=Q6-1
+Added Pin To Net: NetName=NetD15_1 Pin=Q7-2
+Added Pin To Net: NetName=NetD15_1 Pin=Q8-2
+Added Net: Name=NetD15_1
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD15_2 Pin=D16-2
+Added Net: Name=NetD15_2
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_1 Pin=Q5-2
+Added Net: Name=NetD16_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=Q1-8
+Added Pin To Net: NetName=NetL1_2 Pin=Q5-8
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-5
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-6
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-7
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q6-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q7-3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q8-3
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-4
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-5
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-6
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-7
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Net: Name=NetQ8_1
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=PassElement Member=Component D1 PTVS12VP1UP,115
+Added Member To Class: ClassName=PassElement Member=Component D2 PTVS12VP1UP,115
+Added Member To Class: ClassName=PassElement Member=Component D3 1N4007 SMD
+Added Member To Class: ClassName=PassElement Member=Component D4 1N4007 SMD
+Added Member To Class: ClassName=PassElement Member=Component D5 1N4007 SMD
+Added Member To Class: ClassName=PassElement Member=Component D6 1N4007 SMD
+Added Member To Class: ClassName=PassElement Member=Component D7 1N4007 SMD
+Added Member To Class: ClassName=PassElement Member=Component D8 1N4007 SMD
+Added Member To Class: ClassName=PassElement Member=Component D9 1N4007 SMD
+Added Member To Class: ClassName=PassElement Member=Component D10 1N4007 SMD
+Added Member To Class: ClassName=PassElement Member=Component D11 PTVS12VP1UP,115
+Added Member To Class: ClassName=PassElement Member=Component D12 PTVS12VP1UP,115
+Added Member To Class: ClassName=PassElement Member=Component D13 PTVS12VP1UP,115
+Added Member To Class: ClassName=PassElement Member=Component D14 PTVS12VP1UP,115
+Added Member To Class: ClassName=PassElement Member=Component D15 PTVS12VP1UP,115
+Added Member To Class: ClassName=PassElement Member=Component D16 PTVS12VP1UP,115
+Added Member To Class: ClassName=PassElement Member=Component Q4 2N2222A
+Added Member To Class: ClassName=PassElement Member=Component Q5 UJ4SC075018B7S
+Added Member To Class: ClassName=PassElement Member=Component Q6 2N2907A
+Added Member To Class: ClassName=PassElement Member=Component Q7 2N2222A
+Added Member To Class: ClassName=PassElement Member=Component Q8 2N2222A
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component U1 CH4659-ALD
+Added Member To Class: ClassName=Reference Member=Component U4 ADA4522-4ARZ-RL

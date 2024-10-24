@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=J? Old Footprint=AMPHENOL_MDBRE09PE860 New Footprint=TE_2118728-2
+Change Component Footprint: Designator=* Old Footprint=Guard New Footprint=PCBComponent_1
+Change Component Footprint: Designator=* Old Footprint=PCBComponent_1 New Footprint=Guard
+Change Component Comment: Designator=* Old Comment=ACRK-16-01-G-T-B1-M-1 New Comment=Component_1
+Change Component Comment: Designator=* Old Comment=Component_1 New Comment=ACRK-16-01-G-T-B1-M-1
+Change Component Comment: Designator=J? Old Comment=MDBRE09PE860 New Comment=2118728-2
+Change Pin Designator/Name:  Old Designator=*-1 Old Name=15 New Designator =15 New Name=1

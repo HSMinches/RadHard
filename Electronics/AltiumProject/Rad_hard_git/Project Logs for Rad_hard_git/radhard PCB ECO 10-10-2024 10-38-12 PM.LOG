@@ -1,0 +1,21 @@
+Added Component: Designator=R1(SOP65P490X110-9N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Analog Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LT5400ACMS8E-3#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(SOP65P490X110-9N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Analog Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LT5400BHMS8E-8#TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CH4659-ALD_COC
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Added Member To Class: ClassName=Reference Member=Component R1 LT5400ACMS8E-3#PBF
+Added Member To Class: ClassName=Reference Member=Component R2 LT5400BHMS8E-8#TRPBF
+Add Class Member: Failed to add class member : Component U1 CH4659-ALD
