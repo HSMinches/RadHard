@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=D:\DownloadsChrome\ul_PTS1206M2B1K00P100\AltiumDesigner\PTS1206M2B1K00P100.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XEIRPQLD
+
+[Document2]
 DocumentPath=CoverSchematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDJSPVLD
 
-[Document2]
+[Document3]
 DocumentPath=Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSENFDSX
 
-[Document3]
+[Document4]
 DocumentPath=radhard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYJRSWOE
 
-[Document4]
+[Document5]
 DocumentPath=Reference.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMNGXODL
 
-[Document5]
+[Document6]
 DocumentPath=TempEnhanced.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRAFWLPQ
 
-[Document6]
+[Document7]
 DocumentPath=RadEnhanced.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRALTUMA
 
-[Document7]
+[Document8]
 DocumentPath=PassElement.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVQAQMIO
 
-[Document8]
+[Document9]
 DocumentPath=D:\DownloadsChrome\ul_MAL214099801E3\AltiumDesigner\MAL214099801E3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KRRVFJLH
 
-[Document9]
+[Document10]
 DocumentPath=D:\DownloadsChrome\ul_UPF50B2K0V\AltiumDesigner\UPF50B100RV.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYTVUOFC
 
-[Document10]
+[Document11]
 DocumentPath=D:\DownloadsChrome\ul_MAL214099801E3\AltiumDesigner\MAL214099801E3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MRXKELPD
 
-[Document11]
+[Document12]
 DocumentPath=D:\DownloadsChrome\ul_UPF50B2K0V\AltiumDesigner\UPF50B100RV.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOHRFEAC
 
-[Document12]
+[Document13]
 DocumentPath=SnapDocs\LT5400ACMS8E-3#PBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=SnapDocs\LT5400ACMS8E-3#PBF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=D:\DownloadsChrome\ul_CH4659-ALD (1)\AltiumDesigner\CH4659-ALD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFKJHWRM
 
-[Document15]
+[Document16]
 DocumentPath=SnapDocs\LT5400BHMS8E-8#TRPBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=SnapDocs\LT5400BHMS8E-8#TRPBF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=D:\DownloadsChrome\ul_CRHP1206AF1G00FKET\AltiumDesigner\CRHP1206AF1G00FKET.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMVVZEAH
 
-[Document18]
+[Document19]
 DocumentPath=SnapDocs\10108877-R10253SLF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=SnapDocs\10108877-R10253SLF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document20]
+[Document21]
 DocumentPath=..\..\..\..\..\..\HATRONIKA_DCDC - REV2\UJ4SC075018B7S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=..\..\..\..\..\..\HATRONIKA_DCDC - REV2\UJ4SC075018B7S.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=SolidStateDosimeter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XRWDKYKT
 
-[Document23]
+[Document24]
 DocumentPath=SnapDocs\IXTA6N100D2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document25]
 DocumentPath=SnapDocs\IXTA6N100D2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNSFYKQL
 
-[Document25]
+[Document26]
 DocumentPath=project_sim_config.simcfg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=TemperatureMon.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPXBNYFY
 
-[Document27]
+[Document28]
 DocumentPath=SnapDocs\ADA4530-1ARZ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=D:\DownloadsChrome\ul_CH4659-ALD (1)\AltiumDesigner\CH4659-ALD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YMEUYKCH
 
-[Document29]
+[Document30]
 DocumentPath=SnapDocs\ADA4530-1ARZ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=SnapDocs\BPW 34 SR-Z.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=D:\DownloadsChrome\ul_CRHP1206AF1G00FKET\AltiumDesigner\CRHP1206AF1G00FKET.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYTPYMPG
 
-[Document32]
+[Document33]
 DocumentPath=D:\DownloadsChrome\ul_LT3097ADJC-PBF\AltiumDesigner\LT3097ADJCPBF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +610,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLJUJUCI
 
-[Document33]
+[Document34]
+DocumentPath=D:\DownloadsChrome\ul_PTS1206M2B1K00P100\AltiumDesigner\PTS1206M2B1K00P100.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GEDKXUCL
+
+[Document35]
 DocumentPath=SnapDocs\BPW 34 SR-Z.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQJNPGZJ
 
-[Document34]
+[Document36]
 DocumentPath=ACRK-16-01-G-T-B1-M-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSXQWAUE
 
-[Document35]
+[Document37]
 DocumentPath=ACRK-16-01-G-T-B1-M-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMEAKNNH
 
-[Document36]
+[Document38]
 DocumentPath=SnapDocs\12065A5R6DAT2A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document39]
 DocumentPath=SnapDocs\12065A5R6DAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document40]
 DocumentPath=guardRing.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYNOUKQS
 
-[Document39]
+[Document41]
 DocumentPath=Guard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FKMFKDIS
 
-[Document40]
+[Document42]
 DocumentPath=Rad_hard_git.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document43]
 DocumentPath=SnapDocs\2118728-2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document42]
+[Document44]
 DocumentPath=SnapDocs\2118728-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGTEKTXG
 
-[Document43]
+[Document45]
 DocumentPath=SnapDocs\MDBRE09PE860.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPJMZZIY
 
-[Document44]
+[Document46]
 DocumentPath=SnapDocs\MDBRE09PE860.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFVDMUHQ
 
-[Document45]
+[Document47]
 DocumentPath=SnapDocs\MCT06030C1001FP500.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document48]
 DocumentPath=SnapDocs\MCT06030C1001FP500.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document49]
 DocumentPath=Lownoise_auxReg.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNTOLDRN
 
-[Document48]
+[Document50]
 DocumentPath=SnapDocs\VBPW34S.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document51]
 DocumentPath=SnapDocs\VBPW34S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABJIJIMH
 
-[Document50]
+[Document52]
 DocumentPath=D:\DownloadsChrome\ul_LT3097ADJC-PBF\AltiumDesigner\LT3097ADJCPBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFADTFRL
 
-[Document51]
+[Document53]
 DocumentPath=SnapDocs\VJ0805Y223KXXAC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document54]
 DocumentPath=SnapDocs\VJ0805Y223KXXAC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document55]
 DocumentPath=SnapDocs\TNPW0603120KBEEA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document56]
 DocumentPath=SnapDocs\TNPW0603120KBEEA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
