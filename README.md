@@ -10,3 +10,6 @@ A escolha pelos reguladores de tensão lineares se justifica por sua capacidade 
 
 O objetivo deste projeto é desenvolver um regulador linear discreto, capaz de operar de forma eficiente em meio a grandes variações de temperatura e consideráveis níveis de exposição à radiação, evitando que essas condições provoquem alterações na tensão de saída, problema comum em ambientes hostis.
 
+![image](https://github.com/user-attachments/assets/e2b72cf6-8983-45f0-b046-af1138b04d5f)
+
+
