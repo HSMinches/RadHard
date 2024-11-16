@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Dosimeter Member=*
+Change Component Designator: OldDesignator=* NewDesignator=Amph
+Change Component Designator: OldDesignator=* NewDesignator=Res
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetRes_1
+Add Net: Net with name "GND" already exists
+Added Member To Class: ClassName=Dosimeter Member=Component Res GUARD_RING
+Added Member To Class: ClassName=AuxReg Member=Component U7 LT3094EMSE#PBF

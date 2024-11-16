@@ -1,0 +1,56 @@
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=C21_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=C22_Temperature_Enhanced_WB1
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=C23_Temperature_Enhanced_WB1
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=D23_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=D24_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=D25_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=D26_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=R36_Temperature_Enhanced_WB1
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R37_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R38_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=R39_Temperature_Enhanced_WB1
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=R40_Temperature_Enhanced_WB1
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=R41_Temperature_Enhanced_WB1
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=R42_Temperature_Enhanced_WB1
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=R43_Temperature_Enhanced_WB1
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=R44_Temperature_Enhanced_WB1
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R45_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R46_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R47_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R48_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R49_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R50_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R51_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R52_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R53_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=R54_Temperature_Enhanced_WB2
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=U6_Temperature_Enhanced_WB1
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=U8_Temperature_Enhanced_WB1
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component C21_Temperature_Enhanced_WB1 (C21) CC0402KRX7R9BB104
+Added Member To Class: ClassName=Temperature_Enhanced_WB2 Member=Component C22_Temperature_Enhanced_WB2 (C22) CC0402KRX7R9BB104
+Added Member To Class: ClassName=Temperature_Enhanced_WB2 Member=Component C23_Temperature_Enhanced_WB2 (C23) CC0402KRX7R9BB104
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component D23_Temperature_Enhanced_WB1 (D23) RF05VYM1SFHTR
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component D24_Temperature_Enhanced_WB1 (D24) RF05VYM1SFHTR
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component D25_Temperature_Enhanced_WB1 (D25) RF05VYM1SFHTR
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component D26_Temperature_Enhanced_WB1 (D26) RF05VYM1SFHTR
+Added Member To Class: ClassName=Temperature_Enhanced_WB2 Member=Component R36_Temperature_Enhanced_WB2 (R36) H810KBYA
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R37_Temperature_Enhanced_WB1 (R37) H810KBYA
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R38_Temperature_Enhanced_WB1 (R38) H81M0BYA
+Added Member To Class: ClassName=Temperature_Enhanced_WB2 Member=Component R39_Temperature_Enhanced_WB2 (R39) H81M0BYA
+Added Member To Class: ClassName=Temperature_Enhanced_WB2 Member=Component R40_Temperature_Enhanced_WB2 (R40) H81K0BYA
+Added Member To Class: ClassName=Temperature_Enhanced_WB2 Member=Component R41_Temperature_Enhanced_WB2 (R41) UPF50B100KV
+Added Member To Class: ClassName=Temperature_Enhanced_WB2 Member=Component R42_Temperature_Enhanced_WB2 (R42) UPF50B100KV
+Added Member To Class: ClassName=Temperature_Enhanced_WB2 Member=Component R43_Temperature_Enhanced_WB2 (R43) UPF50B100KV
+Added Member To Class: ClassName=Temperature_Enhanced_WB2 Member=Component R44_Temperature_Enhanced_WB2 (R44) UPF50B100KV
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R45_Temperature_Enhanced_WB1 (R45) H81K0BYA
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R46_Temperature_Enhanced_WB1 (R46) H81K0BYA
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R47_Temperature_Enhanced_WB1 (R47) UPF50B100KV
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R48_Temperature_Enhanced_WB1 (R48) UPF50B100KV
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R49_Temperature_Enhanced_WB1 (R49) H81K0BYA
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R50_Temperature_Enhanced_WB1 (R50) MCT06030C1001FP500
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R51_Temperature_Enhanced_WB1 (R51) H81K0BYA
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R52_Temperature_Enhanced_WB1 (R52) H81K0BYA
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R53_Temperature_Enhanced_WB1 (R53) MCT06030C1001FP500
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R54_Temperature_Enhanced_WB1 (R54) MCT06030C1001FP500
+Added Member To Class: ClassName=Temperature_Enhanced_WB2 Member=Component U6_Temperature_Enhanced_WB2 (U6A) ADA4522-4ARZ-RL
+Added Member To Class: ClassName=Temperature_Enhanced_WB2 Member=Component U8_Temperature_Enhanced_WB2 (U8) ADG452BRZ
