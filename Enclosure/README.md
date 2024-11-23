@@ -1,1 +1,3 @@
 A case que irá envolver a placa foi desenvolvida utilizando o software Inventor e será fabricada em alumínio, um material conhecido por sua resistência e leveza. O principal objetivo dessa case é fornecer uma proteção robusta para a placa e seus componentes, evitando danos mecânicos, poeira e outras interferências externas que poderiam comprometer seu funcionamento. Além disso, o uso de alumínio contribui para a dissipação de calor, ajudando a manter os componentes em uma temperatura ideal e prolongando a vida útil do equipamento.
+
+![Montagem1](https://github.com/user-attachments/assets/66d6580f-8dd2-4a78-87d7-15c260f45ddb)
