@@ -28,3 +28,5 @@ Explicação dos blocos do diagrama:
   
 
 ![image](https://github.com/user-attachments/assets/c19b874c-f62a-4827-9e94-80df92e2e3cd)
+
+O bloco de controle é composto pelos componentes localizados no centro da placa, possui OP-AMPS e resistores de alta precisão e baixo drift térmico. 
