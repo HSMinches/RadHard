@@ -506,7 +506,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HBKBANED
 
 [Document28]
 DocumentPath=D:\DownloadsChrome\ul_CH4659-ALD (1)\AltiumDesigner\CH4659-ALD.SchLib
@@ -540,7 +540,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NMCGCLMI
 
 [Document30]
 DocumentPath=SnapDocs\BPW 34 SR-Z.SchLib
@@ -983,6 +983,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document56]
+DocumentPath=radhard.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VMXRVFIE
 
 [ProjectVariant1]
 UniqueID=85A3BA36-8E80-400B-A5D1-FD28538027B7
