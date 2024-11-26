@@ -16,3 +16,17 @@ A imagem abaixo é referente a placa principal de regulação de tensão.
 
 
 ![Data Flow Diagram Whiteboard in Dark Yellow Light Yellow Black Monochromatic Style(1)](https://github.com/user-attachments/assets/883d16f3-e689-430b-ab6b-6cb6f3af1566)
+
+Explicação dos blocos do diagrama: 
+
+* Controle: bloco responsável pelo controle de toda a fonte, controlando a tensão e a corrente e pode desligar a fonte caso condições adversas aconteçam. Ele está localizado no meio da placa. 
+* Temperatura: responsável pela medição de temperatura interna da placa. Tem ligação direta ao controle. A direita do bloco de radiação.
+* Radiação: responsável pela medição de radiação incidida sobre o dispositivo. Se encontra no canto esquerdo inferior. 
+* Referência: como o próprio nome já diz, é uma referência sobre a tensão estável do circuito. Canto superior esquerdo da placa.
+* Proteção: protege contra sobretensão, transientes indesejados, proteção contra polaridade reversa e surtos de corrente. Está distribuído por toda a placa.
+* Elemento de potência: São os elementos responsáveis por regular a tensão e suportar a maior carga de potência indesejado. Localizado na parte de trás da placa.
+  
+
+![image](https://github.com/user-attachments/assets/c19b874c-f62a-4827-9e94-80df92e2e3cd)
+
+O bloco de controle é composto pelos componentes localizados no centro da placa, possui OP-AMPS e resistores de alta precisão e baixo drift térmico. 
