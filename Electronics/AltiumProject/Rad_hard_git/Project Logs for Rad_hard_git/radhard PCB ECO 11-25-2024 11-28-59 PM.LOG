@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Amph Old Footprint=GUARD New Footprint=PCBComponent_1
+Change Component Footprint: Designator=Res Old Footprint=PCBComponent_1 New Footprint=Guard
+Change Component Designator: OldDesignator=Res NewDesignator=GR
+Change Net Name : Old Net Name=NetRes_1 New Net Name=NetGR_1

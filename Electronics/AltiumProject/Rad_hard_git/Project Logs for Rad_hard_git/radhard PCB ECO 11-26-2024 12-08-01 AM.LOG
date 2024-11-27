@@ -1,0 +1,15 @@
+Added Component: Designator=U5(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Analog Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ADA4530-1ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=NetGR_1 Pin=U5-2
+Added Pin To Net: NetName=-12_F Pin=U5-4
+Added Pin To Net: NetName=+12_F Pin=U5-5
+Added Pin To Net: NetName=NetC4_2 Pin=U5-6
+Added Pin To Net: NetName=NetGR_1 Pin=U5-7
+Added Pin To Net: NetName=NetC4_1 Pin=U5-8
+Added Member To Class: ClassName=Dosimeter Member=Component U5 ADA4530-1ARZ

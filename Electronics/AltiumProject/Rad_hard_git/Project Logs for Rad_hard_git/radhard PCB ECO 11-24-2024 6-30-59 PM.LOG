@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=  NewDesignator=R16
+Added Pin To Net: NetName=NetD24_Temperature_Enhanced_WB1_2 Pin=U8_Temperature_Enhanced_WB1-2
+Added Pin To Net: NetName=NetD23_Temperature_Enhanced_WB1_2 Pin=U8_Temperature_Enhanced_WB1-14
+Added Pin To Net: NetName=NetD24_Temperature_Enhanced_WB1_2 Pin=U8_Temperature_Enhanced_WB2-2
+Added Pin To Net: NetName=NetD23_Temperature_Enhanced_WB1_2 Pin=U8_Temperature_Enhanced_WB2-14
+Change Net Name : Old Net Name=NetD23_Temperature_Enhanced_WB1_2 New Net Name=Sense-_Temperature_Enhanced_WB1
+Change Net Name : Old Net Name=NetD24_Temperature_Enhanced_WB1_2 New Net Name=Sense+_Temperature_Enhanced_WB1
+Added Member To Class: ClassName=Dosimeter Member=Component R16 ERJ-8GEYJ241V

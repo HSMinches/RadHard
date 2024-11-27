@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Amph Old Footprint=GUARD New Footprint=PCBComponent_1
+Added Member To Class: ClassName=Temperature_Enhanced_WB1 Member=Component R46_Temperature_Enhanced_WB1 (R46) H81K0BYA
+Added Member To Class: ClassName=VoltageReference Member=Component U4 ADA4522-4ARZ-RL

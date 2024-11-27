@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetJ1_20 Pin=TP6_Temperature_Enhanced_WB1-TP
+Removed Pin From Net: NetName=NetJ1_20 Pin=TP6_Temperature_Enhanced_WB2-TP
+Removed Member From Class: ClassName=Temperature_Enhanced_WB1 Member=TP6_Temperature_Enhanced_WB1
+Removed Member From Class: ClassName=Temperature_Enhanced_WB2 Member=TP6_Temperature_Enhanced_WB2
+Added Component: Designator=TP12(KEYSTONE_5019)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Keystone Electronics'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR30_1 Pin=TP12-TP
+Added Member To Class: ClassName=TemperatureMonitor Member=Component TP12 5019

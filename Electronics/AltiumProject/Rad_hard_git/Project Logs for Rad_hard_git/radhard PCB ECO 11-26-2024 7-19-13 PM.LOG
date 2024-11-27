@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetR30_1 Pin=TP12-TP
+Removed Member From Class: ClassName=TemperatureMonitor Member=TP12
