@@ -31,7 +31,7 @@ TESTES FUTUROS
 ● Exposição à Radiação: Ensaios com feixes de íons pesados e fontes de radiação irão simular condições espaciais e ambientes nucleares.       
 ● HALT (Highly Accelerated Life Test) : O dispositivo irá ser submetido a ciclos repetidos de aquecimento e resfriamento para verificar sua resistência à fadiga térmica.   
 
-
+                     
 
 
 CONCLUSÃO
