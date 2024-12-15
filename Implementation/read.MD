@@ -8,8 +8,10 @@ OBJETIVO
   O principal objetivo do projeto é desenvolver um regulador de tensão e corrente capaz de:
 
 ● Operar em temperaturas que variam de 0°C a 60°C ou mais.
+
 ● Resistir a doses elevadas de radiação ionizante sem comprometer a funcionalidade.
 ● Fornecer tensões e correntes estáveis em condições adversas.
+
 ● Garantir durabilidade e confiabilidade mesmo em ciclos térmicos prolongados e sob exposição à radiação.
 ● A regulação de tensão e corrente se dá por malhas de feedback analógico. Sua tensão máxima de saída gira em torno de 14V, já a máxima corrente de saída, podemos afirmar que gira em torno de 1A.
 
