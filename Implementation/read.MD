@@ -6,8 +6,7 @@ INTRODUÇÃO
 
 OBJETIVO 
 
-  O principal objetivo do projeto é desenvolver um regulador de tensão e corrente capaz de:
-
+  O principal objetivo do projeto é desenvolver um regulador de tensão e corrente capaz de:        
 ● Operar em temperaturas que variam de 0°C a 60°C ou mais.          
 ● Resistir a doses elevadas de radiação ionizante sem comprometer a funcionalidade.         
 ● Fornecer tensões e correntes estáveis em condições adversas.                   
@@ -28,11 +27,9 @@ TESTES FUTUROS
 
 
   O protótipo será submetido a uma série de testes para validar seu desempenho e durabilidade:    
-● HASS (Highly Accelerated Stress Screening): O regulador será colocado em câmaras climáticas para avaliar seu funcionamento em condições de calor e frio. 
-
-● Exposição à Radiação: Ensaios com feixes de íons pesados e fontes de radiação irão simular condições espaciais e ambientes nucleares.
-
-● HALT (Highly Accelerated Life Test) : O dispositivo irá ser submetido a ciclos repetidos de aquecimento e resfriamento para verificar sua resistência à fadiga térmica.
+● HASS (Highly Accelerated Stress Screening): O regulador será colocado em câmaras climáticas para avaliar seu funcionamento em condições de calor e frio.     
+● Exposição à Radiação: Ensaios com feixes de íons pesados e fontes de radiação irão simular condições espaciais e ambientes nucleares.       
+● HALT (Highly Accelerated Life Test) : O dispositivo irá ser submetido a ciclos repetidos de aquecimento e resfriamento para verificar sua resistência à fadiga térmica.   
 
 
 
