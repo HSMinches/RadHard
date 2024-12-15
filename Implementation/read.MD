@@ -34,6 +34,6 @@ TESTES FUTUROS
                      
 
 
-CONCLUSÃO
+CONCLUSÃO                  
       O regulador desenvolvido tende a ter desempenho satisfatório, operando de forma aceitável em variações de temperaturas e sob exposição a doses de radiação. Com base em especificações de componentes obtidas em bancos de dados, o dispositivo estaria apto para aplicações em ambientes adversos, como indústria aeroespacial, indústria nuclear e determinados usos militares. O sucesso deste projeto reforça a viabilidade do uso de componentes COTS (Commercial-Off-The-Shelf) e estratégias de design tolerantes a condições adversas.
 
