@@ -14,7 +14,7 @@ OBJETIVO
 
 
 MATERIAIS              
-  A seleção dos materiais foi baseada em técnicas de compensação térmica e técnicas de design contra falhas induzidas por radiação, levando como base desempenho por custo benefício. Ademais todos os componentes deste projeto foram adquiridos de forma gratuita. Contudo se fossemos fazer uma estimativa de custo para esse projeto, o valor total estaria próximo de $4000 USD.
+  A seleção dos materiais foi baseada em técnicas de compensação térmica e técnicas de design contra falhas induzidas por radiação, levando como base desempenho por custo benefício. Ademais todos os componentes deste projeto foram adquiridos de forma gratuita. Contudo se fossemos fazer uma estimativa de custo para esse projeto, o valor total estaria próximo de $2000 USD.
 
 
 
