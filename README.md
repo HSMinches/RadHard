@@ -32,9 +32,7 @@ Explicação dos blocos do diagrama:
 O bloco de controle é composto pelos componentes localizados no centro da placa, possui OP-AMPS e resistores de alta precisão e baixo drift térmico. 
 
 
-/////////////////////////////////////////////
---------------TESTES REALIZADOS--------------
-/////////////////////////////////////////////
+# TESTES REALIZADOS
 
 Após realizar o assembly dos componentes na PCB desenvolvida, foram realizados os seguintes testes para comprovar resultados iniciais utilizando o seguinte setup de testes:
 
