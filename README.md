@@ -31,6 +31,11 @@ Explicação dos blocos do diagrama:
 
 O bloco de controle é composto pelos componentes localizados no centro da placa, possui OP-AMPS e resistores de alta precisão e baixo drift térmico. 
 
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+--------------------------------------------------------------------TESTES REALIZADOS------------------------------------------------------------------------------- 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Após realizar o assembly dos componentes na PCB desenvolvida, foram realizados os seguintes testes para comprovar resultados iniciais utilizando o seguinte setup de testes:
 
 ![setup1](https://github.com/user-attachments/assets/08be0187-4fce-4f1a-8255-98aae0f4d7f4)
@@ -41,7 +46,7 @@ Os seguintes resultados foram obtidos:
 
 
 
-*Estabilidade de tensão:
+* Estabilidade de tensão:
 
 Utilizando o multímetro de precisão em ambiente com temperatura controlada, foram adquiridas amostras durante várias horas em 2 níveis de tensão diferentes para avaliar a estabilidade do sistema. Como as figuras abaixo mostram:
 
@@ -53,7 +58,7 @@ Podendo obter bons resultados e com boa estabilidade em geral com os resultados 
 
 
 
-*Transiente de cargas e ripple de regulação:
+* Transiente de cargas e ripple de regulação:
 
 Foi utilizado o ADALM2000 e o LTPA em conjunto com a probe de corrente para gerar uma corrente de carga na saída do DUT, analisando assim a resposta de saída do sistema.
 
@@ -63,7 +68,7 @@ Como demonstrado, existe um ripple extremamente baixo, mesmo com um transiente d
 
 
 
-*Teste de sobretemperatura:
+* Teste de sobretemperatura:
 
 Para evitar o stress dos componentes da placa, foi utilizado um soprador térmico em 100C para levar o sistema a falha de sobretemperatura, como este utiliza um disparador Schmitt, o sistema volta a funcionar automáticamente após a temperatura estabilizar em um nível aceitável novamente. No caso de falha, o sistema sai do indicador verde para o indicador laranja. 
 
