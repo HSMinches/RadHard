@@ -30,3 +30,42 @@ Explicação dos blocos do diagrama:
 ![image](https://github.com/user-attachments/assets/c19b874c-f62a-4827-9e94-80df92e2e3cd)
 
 O bloco de controle é composto pelos componentes localizados no centro da placa, possui OP-AMPS e resistores de alta precisão e baixo drift térmico. 
+
+Após realizar o assembly dos componentes na PCB desenvolvida, foram realizados os seguintes testes para comprovar resultados iniciais utilizando o seguinte setup de testes:
+
+![setup1](https://github.com/user-attachments/assets/08be0187-4fce-4f1a-8255-98aae0f4d7f4)
+
+O setup consiste de uma fonte auxiliar para gerar a alimentação negativa do circuito, um multímetro de 7 1/2 dígitos controlado por GPIB, uma fonte de sistema para alimentar a entrada da placa e a tensão auxiliar positiva da placa, um ADALM2000 para capturar dados de teste do LTPA (" Linear Technology Power Analyzer "), e uma probe de corrente que atua também como uma carga ativa na saída do circuito.  
+
+Os seguintes resultados foram obtidos:
+
+
+
+*Estabilidade de tensão:
+
+Utilizando o multímetro de precisão em ambiente com temperatura controlada, foram adquiridas amostras durante várias horas em 2 níveis de tensão diferentes para avaliar a estabilidade do sistema. Como as figuras abaixo mostram:
+
+![5VREF_FILTERED](https://github.com/user-attachments/assets/544fc1a5-6766-47e7-929a-59f9fc9ad20f)
+
+![7VREF](https://github.com/user-attachments/assets/a26da9bb-9924-48d7-8d9b-592d5d91f5cf)
+
+Podendo obter bons resultados e com boa estabilidade em geral com os resultados medidos. 
+
+
+
+*Transiente de cargas e ripple de regulação:
+
+Foi utilizado o ADALM2000 e o LTPA em conjunto com a probe de corrente para gerar uma corrente de carga na saída do DUT, analisando assim a resposta de saída do sistema.
+
+![LTPA](https://github.com/user-attachments/assets/cfe52348-baca-4fcd-94f6-77a695e5d6dc)
+
+Como demonstrado, existe um ripple extremamente baixo, mesmo com um transiente de carga rápido. Para cargas prolongadas, será necessário desenvolver uma solução térmica apropriada para o DUT.
+
+
+
+*Teste de sobretemperatura:
+
+Para evitar o stress dos componentes da placa, foi utilizado um soprador térmico em 100C para levar o sistema a falha de sobretemperatura, como este utiliza um disparador Schmitt, o sistema volta a funcionar automáticamente após a temperatura estabilizar em um nível aceitável novamente. No caso de falha, o sistema sai do indicador verde para o indicador laranja. 
+
+https://github.com/user-attachments/assets/5670507f-7ce3-459a-abeb-b3ff87b2f2d7
+
